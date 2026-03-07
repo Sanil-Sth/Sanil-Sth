@@ -39,6 +39,6 @@ I am a **2nd Year B.Sc. CSIT** student at **St. Xavier's College, Maitighar**, w
 <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=Sanil-Sth&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanil-Sth&layout=compact&theme=radical&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanil-Sth&theme=radical" height="150" alt="languages graph" />
 
 </div>

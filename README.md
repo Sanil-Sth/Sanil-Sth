@@ -1,4 +1,4 @@
-# Hi there, I'm Sanil Sthapit! 👋
+# Hi there, I'm Sanil Sthapit! 
 
 I am a **2nd Year B.Sc. CSIT** student at **St. Xavier's College, Maitighar**, where I also completed my high school education. I am passionate about bridging the gap between rigorous Data Algorithms and visual creativity through UI and Frontend Design making interfaces that are both intelligent and beautiful.
 

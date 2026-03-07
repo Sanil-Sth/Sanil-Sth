@@ -1,11 +1,11 @@
 # Hi there, I'm Sanil Sthapit! 👋
 
-I am a **2nd Year B.Sc. CSIT** student at **St. Xavier's College, Maitighar**, where I also completed my high school education. I am passionate about bridging the gap between rigorous Data Algorithms and visual creativity through UI Design and Computer Vision.
+I am a **2nd Year B.Sc. CSIT** student at **St. Xavier's College, Maitighar**, where I also completed my high school education. I am passionate about bridging the gap between rigorous Data Algorithms and visual creativity through UI and FrontEnd Design making interfaces that are both intelligent and beautiful.
 
 ---
 
 ### 🚀 **About Me**
-- 🔭 I’m currently exploring projects that integrate **Machine Learning and Computer Vision**.
+- 🔭 I’m currently exploring projects that integrate **Web Design, Data Analysis and AI  **.
 - 🌱 I’m deeply interested in **Neural Networks** and **Data Structures & Algorithms**.
 - 🎓 **Education:** B.Sc. CSIT @ St. Xavier's College.
 - 🎨 I love combining logic with aesthetics through **UI Design**.
@@ -38,7 +38,7 @@ I am a **2nd Year B.Sc. CSIT** student at **St. Xavier's College, Maitighar**, w
 ### 📊 **GitHub Stats**
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Sanil-Sth&theme=radical" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Sanil-Sth&theme=radical" height="150" alt="stats graph" /> <\t>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanil-Sth&theme=radical" height="150" alt="languages graph" />
 
 </div>

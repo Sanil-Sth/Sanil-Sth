@@ -5,7 +5,7 @@ I am a **2nd Year B.Sc. CSIT** student at **St. Xavier's College, Maitighar**, w
 ---
 
 ### 🚀 **About Me**
-- 🔭 I’m currently exploring projects that integrate **Web Design, Data Analysis and AI  **.
+- 🔭 I’m currently exploring projects that integrate **Web Design, Data Analysis and AI**.
 - 🌱 I’m deeply interested in **Neural Networks** and **Data Structures & Algorithms**.
 - 🎓 **Education:** B.Sc. CSIT @ St. Xavier's College.
 - 🎨 I love combining logic with aesthetics through **UI Design**.
